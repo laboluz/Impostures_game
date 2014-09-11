@@ -1,0 +1,15 @@
+<!---------------------------------------------->
+<!-- EDIT ONLY IF YOU KNOW WHAT ARE YOU DOING -->
+<!---------------------------------------------->
+
+<!------------- SCREENS ------------->
+<ms_width>1680</ms_width>	<!-- main screen (primary) width -->
+<ms_height>1050</ms_height>	<!-- main screen (primary) height -->
+
+<ps_width>1024</ps_width>	<!-- projection screen (secondary) width -->
+<ps_height>768</ps_height>	<!-- projection screen (secondary) height -->
+
+<fps>25</fps>				<!-- FPS -->
+
+<!------------- SERIAL -------------->
+<port_name>/dev/tty.usbmodemfa141</port_name>	<!-- serial port name ej. /dev/tty.usbmodem1d11 -->

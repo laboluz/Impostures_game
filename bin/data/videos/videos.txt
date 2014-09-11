@@ -1,0 +1,1 @@
+In this folder are all videos, the video names are as indicated in the file settings/nombrado_ficheros_video.rtf
